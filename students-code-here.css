@@ -19,5 +19,10 @@ top: 45px
 
 .luna {
 position: sticky;
+left: 10px;
+}
 
+.top-hat{
+position: relative;
+z-index: 1;
 }
